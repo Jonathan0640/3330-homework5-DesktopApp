@@ -1,0 +1,31 @@
+DESKTOP GUESSING GAME
+Try to guess the random number between 1-10 within 3 guesses 
+Rules:
+1: Input must be an integer number within 1-10 range (all other inputs are ignored)
+2: Have fun :)
+Attempt 1/3: Enter your guess
+Too High
+Attempt 2/3: Enter your guess
+Too Low
+Attempt 3/3: Enter your guess
+Congrats you guessed the number 4
+DESKTOP GUESSING GAME
+Try to guess the random number between 1-10 within 3 guesses 
+Rules:
+1: Input must be an integer number within 1-10 range (all other inputs are ignored)
+2: Have fun :)
+Attempt 1/3: Enter your guess
+A guess is required
+Attempt 1/3: Enter your guess
+Guess cannot exceed 10
+Attempt 1/3: Enter your guess
+Guess must be at least 1
+Attempt 1/3: Enter your guess
+Too High
+Attempt 2/3: Enter your guess
+Guess cannot exceed 10
+Attempt 2/3: Enter your guess
+Too Low
+Attempt 3/3: Enter your guess
+Too High
+GAME OVER!!! The number was 4
